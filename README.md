@@ -18,6 +18,13 @@
 - https://www.varonis.com/learn/web-security-fundamentals/ - secuirty
 - https://www.pluralsight.com/courses/hack-yourself-first - security
 
+### Hosting
+- http://lowendstock.com/ - starts with $2/year
+- https://www.chicagovps.net/services/cloud-vps - starts with $1/month
+- https://lowendbox.com/blog/hosthatch-12year-128mb-openvz-ssd-vps-in-the-netherlands/ - $13.80/year
+- https://habrahabr.ru/post/202904/ - seems like $10/year plan is closed, but $20/year is still available
+- https://www.digitalocean.com/ - starts with $5/month, great support
+
 ### Tests
 - http://blog.stevensanderson.com/2009/08/24/writing-great-unit-tests-best-and-worst-practises/ 
 - http://blog.stevensanderson.com/2009/11/04/selective-unit-testing-costs-and-benefits/
