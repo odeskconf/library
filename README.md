@@ -79,7 +79,7 @@ marketplaces & managed
 - https://www.workmarket.com/ 
 - http://ziptask.com/ 
 
-### job aggregators
+### Job aggregators
 - https://angel.co/job-collections/remote 
 - https://authenticjobs.com/ 
 - https://gradberry.com/ - recommends you to the best jobs by checking your code, mark “contract”, when creating your profile
@@ -138,7 +138,7 @@ marketplaces & managed
 - https://www.gitignore.io/ - популярные .gitignore
 - https://www.transformy.io - конвертация списков в JSON
 
-### учёт времени
+### Учёт времени
 - https://hubstaff.com 
 - https://toggl.com 
 - https://myhours.com 
@@ -147,7 +147,7 @@ marketplaces & managed
 - https://www.estimatrapp.com/ - инструмент для оценки стоимости проекта
 - https://www.toptal.com/tracker/ - бесплатно и хорошо, но пока нет под Linux
 
-### scraping & crawling:
+### Scraping & crawling:
 - http://apifier.com (best?)
 - http://crawly.diffbot.com/ 
 - http://scrapinghub.com 
@@ -172,8 +172,6 @@ marketplaces & managed
 - http://mozenda.com 
 - http://fivefilters.org/ 
 
-45000 р за все (??)
-
 ## Номадство
 - http://www.nytimes.com/interactive/2016/01/07/travel/places-to-visit.html - Список классных и пока не забитых туристами мест
 nomadforum.io - форум номадов со всего мира
@@ -191,7 +189,7 @@ nomadforum.io - форум номадов со всего мира
 - Drawing on the Artist Within - книга про то как начать рисовать
 - http://joequery.me/code/the-self-hating-web-developer/ - комплексы веб-разработки
 
-## media
+## Media
 - https://www.youtube.com/watch?v=18NHV4nJLQc&list=RD18NHV4nJLQc - Long playlist with chill music
 - http://musicforprogramming.net/ - музыка для программирования
 - https://play.spotify.com/user/spotify/playlist/2ujjMpFriZ2nayLmrD1Jgl, https://play.spotify.com/user/121005385/playlist/6YrlRTQubnE2NxDlsWsZzo - спокойная музыка для работы/релакса
