@@ -229,6 +229,7 @@ nomadforum.io - форум номадов со всего мира
 - http://ankisrs.net/
 - http://fiverr.com/ - вычитка текстов
 - http://www.hamatata.com - фильмы на англ. с переводом субтитров по клику мыши.
+- http://www.breakingnewsenglish.com/ - новости на английском, адаптированные под разный уровень знания.
 
 ## Графомания
 
