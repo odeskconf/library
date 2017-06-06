@@ -40,7 +40,7 @@
 - https://github.com/adamwulf/app-launch-guide
 - https://egghead.io/series/getting-started-with-redux - видеокурс по redux от его автора
 
-### Интервью
+## Интервью
 - Cracking the Coding Interview - очень хорошая книга по тренировке на типовые вопросы и задачи (в электронном виде 6го издания нет - покупайте бумажное)
 - https://www.interviewcake.com/article/python/coding-interview-tips - общие советы
 - https://gist.github.com/TSiege/cbb0507082bb18ff7e4b - Tech Interview Cheatsheet
@@ -58,6 +58,7 @@
 - http://maximilyahov.ru/blog/all/kak-ya-vybral-pisatelya-pomoschnika/ – Расскажите о себе: Что говорить?
 - http://www.careercup.com/resume - разъяснение и темплейт годного CV
 - http://blog.gamedeff.com/?p=64 - gamedev interview questions
+- [Серия видео о составлении резюме и прохождении интервью от Михаила Портнова](https://www.youtube.com/playlist?list=PL7XXjge0nKZczMtQbNk9c2cplvuLZomTh)
 
 ## Удалённая работа
 - http://themagicemail.com/ - как чаще получать ответы от работодателей
