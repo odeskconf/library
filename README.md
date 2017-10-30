@@ -149,7 +149,7 @@ marketplaces & managed
 - https://www.toptal.com/tracker/ - бесплатно и хорошо, но пока нет под Linux
 
 ### Scraping & crawling:
-- http://apifier.com (best?)
+- http://apify.com (best?)
 - http://crawly.diffbot.com/ 
 - http://scrapinghub.com 
 - http://www.outwit.com/products/hub/ 
