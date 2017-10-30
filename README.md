@@ -174,7 +174,8 @@ marketplaces & managed
 
 ## Номадство
 - http://www.nytimes.com/interactive/2016/01/07/travel/places-to-visit.html - Список классных и пока не забитых туристами мест
-nomadforum.io - форум номадов со всего мира
+- https://nomadlist.com/forum/ - форум номадов со всего мира
+- http://prepaid-data-sim-card.wikia.com/wiki/Prepaid_SIM_with_data - информация о туристических сим картах в разных странах
 - https://en.wikivoyage.org/wiki/Main_Page - вики по городам/странам, чем живут, что принято, куда сходить
 
 ## Инвестиции, сбережения
