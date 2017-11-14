@@ -4,6 +4,34 @@
 
 Собираем полезные или просто ссылки из odeskconf. Формат: ссылка - краткое описание, либо название книги, краткое описание, ссылка. Вычищаем хрень, добавляем годноту, добавляем описания.
 
+## Содержание
+
+- [Программирование](#%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
+  - [Web](#web)
+  - [Hosting](#hosting)
+  - [Tests](#tests)
+  - [Theory](#theory)
+  - [Околопрограммирование](#%D0%BE%D0%BA%D0%BE%D0%BB%D0%BE%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
+- [Интервью](#%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D1%8C%D1%8E)
+- [Удалённая работа](#%D1%83%D0%B4%D0%B0%D0%BB%D1%91%D0%BD%D0%BD%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0)
+  - [Job aggregators](#job-aggregators)
+  - [Unusual](#unusual)
+  - [Design-only](#design-only)
+  - [Trash](#trash)
+- [Утилиты](#%D1%83%D1%82%D0%B8%D0%BB%D0%B8%D1%82%D1%8B)
+  - [Учёт времени](#%D1%83%D1%87%D1%91%D1%82-%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8)
+  - [Scraping & crawling:](#scraping--crawling)
+- [Номадство](#%D0%BD%D0%BE%D0%BC%D0%B0%D0%B4%D1%81%D1%82%D0%B2%D0%BE)
+- [Инвестиции, сбережения](#%D0%B8%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%86%D0%B8%D0%B8-%D1%81%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F)
+- [Саморазвитие](#%D1%81%D0%B0%D0%BC%D0%BE%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D0%B5)
+- [Media](#media)
+- [Стоки](#%D1%81%D1%82%D0%BE%D0%BA%D0%B8)
+- [Коллекция на тему UI/UX](#%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-%D0%BD%D0%B0-%D1%82%D0%B5%D0%BC%D1%83-uiux)
+- [Английский](#%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9)
+- [Графомания](#%D0%B3%D1%80%D0%B0%D1%84%D0%BE%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F)
+  - [Project Management](#project-management)
+  - [За налоги и ИП](#%D0%B7%D0%B0-%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3%D0%B8-%D0%B8-%D0%B8%D0%BF)
+
 ## Программирование
 
 - <https://learnxinyminutes.com/> - быстрый вкат в синтаксисы разных языков
@@ -65,6 +93,7 @@
 - <http://maximilyahov.ru/blog/all/kak-ya-vybral-pisatelya-pomoschnika/> – Расскажите о себе: Что говорить?
 - <http://www.careercup.com/resume> - разъяснение и темплейт годного CV
 - <http://blog.gamedeff.com/?p=64> - gamedev interview questions
+- [Серия видео о составлении резюме и прохождении интервью от Михаила Портнова](https://www.youtube.com/playlist?list=PL7XXjge0nKZczMtQbNk9c2cplvuLZomTh)
 
 ## Удалённая работа
 
@@ -185,6 +214,7 @@
 
 - <http://www.nytimes.com/interactive/2016/01/07/travel/places-to-visit.html> - Список классных и пока не забитых туристами мест
 - <https://nomadforum.io> - форум номадов со всего мира
+- <http://prepaid-data-sim-card.wikia.com/wiki/Prepaid_SIM_with_data> - информация о туристических сим картах в разных странах
 - <https://en.wikivoyage.org/wiki/Main_Page> - вики по городам/странам, чем живут, что принято, куда сходить
 
 ## Инвестиции, сбережения
@@ -245,6 +275,7 @@
 - <http://ankisrs.net/>
 - <http://fiverr.com/> - вычитка текстов
 - <http://www.hamatata.com> - фильмы на англ. с переводом субтитров по клику мыши.
+- <http://www.breakingnewsenglish.com/> - новости на английском, адаптированные под разный уровень знания.
 
 ## Графомания
 
